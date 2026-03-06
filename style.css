@@ -121,13 +121,13 @@ header.shadow #search-icon {
 }
 
 .home {
-  max-width: 1300px;
+  max-width: 1080px;
   margin: auto;
   width: 100%;
-  min-height: 1300px;
+  min-height: 960px;
   display: flex;
   align-items: center;
-  background: url(img/BAJAJMOTORS.png);
+  background: url(img/BJJ.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center left;
