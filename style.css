@@ -121,10 +121,10 @@ header.shadow #search-icon {
 }
 
 .home {
-  max-width: 1080px;
+ 
   margin: auto;
   width: 100%;
-  min-height: 960px;
+ 
   display: flex;
   align-items: center;
   background: url(img/BJJ.jpeg);
