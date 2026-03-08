@@ -475,6 +475,12 @@ header.shadow #search-icon {
 }
 .requirement{
    text-align: center;
+   font-weight: bold;
   color: red;
 }
+
+h5{
+  color: blue;
+}
+
 
