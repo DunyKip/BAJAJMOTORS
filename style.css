@@ -473,3 +473,8 @@ header.shadow #search-icon {
     display: contents;
   }
 }
+.requirement{
+   text-align: center;
+  color: red;
+}
+
